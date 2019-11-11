@@ -1,0 +1,4 @@
+<br/>Trying to ssl://stmp.qq.com:465
+<br/><br/>Error: Cannot connenct to relay host ssl://stmp.qq.com
+<br/><br/>Error: php_network_getaddresses: getaddrinfo failed: 不知道这样的主机。  (0)
+<br/><br/>Error: Cannot send email to [ qingwhat@qq.com ] (Step 1)<br/><br/>
